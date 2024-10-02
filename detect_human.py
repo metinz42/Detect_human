@@ -1,6 +1,6 @@
 import cv2
 
-video = cv2.VideoCapture("files/vtest.avi")
+video = cv2.VideoCapture("vtest.avi")
 
 _, frame = video.read()
 

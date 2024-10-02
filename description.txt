@@ -1,0 +1,1 @@
+This program detects people in the video and saves their images . Made by metinz42(Metin Öztaş)
